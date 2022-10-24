@@ -64,3 +64,13 @@ func menu() {
 	}
 
 }
+
+func main() {
+	welcome()
+
+	if controllers.Login() {
+		menu()
+
+	}
+	exitProgram()
+}
