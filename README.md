@@ -1,2 +1,8 @@
 # Alt_School-Task_3
-Atm cli app
+Simple CLI app to perform ATM Operations.
+This app performs the following operations :
+-Login
+-Change PIN
+-Deposit
+-Withdrawal
+-Check Balance
